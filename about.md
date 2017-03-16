@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey, my name is Theo and I've been a professional software developer for over 9 years now, and I'm loving being a journeyman software developer. My current adventure is [The Coding Ground](http://www.thecodingground.com), and, together with Mandla and Jason, we are aiming to make a significant difference in our country's unemployment problem as well as helping individuals to change their lives.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Give me a shout at theo@codeitright.co.za to get into contact, or contact me on my social media platforms below.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
