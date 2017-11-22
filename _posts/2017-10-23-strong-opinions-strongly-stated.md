@@ -3,6 +3,7 @@ layout: post
 title:  "Strong Opinions, stated strongly at your own risk"
 date:   2017-10-23 21:00:00 +0200
 categories: Personal
+comments: true
 
 ---
 
